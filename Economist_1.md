@@ -23,13 +23,13 @@ words:
 
 The main element of this model is that, rather than spending heavily in many different areas of cutting-edge research, the largest firms are increasingly buying in drugs that are already in the course of development. In some cases they do so by buying other established firms. For example, Pfizer acquired Lipitor, its blockbuster cholesterol-lowering pill, as part of its takeover of Warner-Lambert. Likewise, when Gilead bought Pharmasset, one of the assets it acquired was Sovaldi, a hepatitis-C treatment which is now one of Gilead’s biggest sellers.
 
-初译：
-这个模式最主要的部分是，制药巨头们正逐渐从花费大量资金到不同领域的前沿研发转变为购买已经处于研发阶段的药物。在某些例子里面，它们通过购买已建立的公司来这样做。例如，辉瑞收购了Lipitor, 它的重磅降低胆固醇的药物，作为辉瑞收购Warner-Lambert的一部分。同样当吉利德（Gilead）购买Pharmasset时，其中之一的资产就是Sovaldi，一种治疗C型肝炎的药物，目前已经是吉利德最畅销的药物之一。
+这种模式最主要的部分是，最大型的药企们正逐渐在众多不同领域投入巨资进行前沿研发转变为购买已处于研发阶段的药物。某些例子里面，它们通过购买已建立的公司来这样做。例如，#作为收购Warner-Lambert的一部分，辉瑞得到了Lipitor, 它的重磅降低胆固醇的药物#。同样当吉利德（Gilead）购买Pharmasset时，其中之一的资产就是Sovaldi，一种治疗C型肝炎的药物，目前已经是吉利德最畅销的药物之一。
 
 words:
 as part of its takeover
 
-
+2016-02-06 
+---
 Increasingly, the drugs giants are buying smaller, younger biotechnology firms which focus on a single-treatment approach—such as last year’s purchase by Merck, an American firm, of Idenix, which is pursuing a different route to inhibiting the hepatitis C virus from Sovaldi’s. Whether the target firm is big or small, buying in promising potential drugs is a good strategy. A study by Bain, a consulting firm, found that in the past 20 years those drug companies that consistently did well in various therapeutic areas were earning more than 70% of their sales from products developed elsewhere.
 
 As the biggest firms have increasingly outsourced the early stages of drug discovery, they have cut back their in-house spending in those areas of research in which they are weak. But they have continued to spend heavily on what are more like beauty products than life-saving cures—think of Allergan’s Botox anti-wrinkle jabs, or Latisse, its lotion for thickening eyelashes. They have also continued to pump money into making incremental changes to their existing drugs, so as to claim some small advantage—and big price differential—over rival treatments.
