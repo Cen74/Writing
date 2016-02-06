@@ -23,7 +23,7 @@ words:
 
 The main element of this model is that, rather than spending heavily in many different areas of cutting-edge research, the largest firms are increasingly buying in drugs that are already in the course of development. In some cases they do so by buying other established firms. For example, Pfizer acquired Lipitor, its blockbuster cholesterol-lowering pill, as part of its takeover of Warner-Lambert. Likewise, when Gilead bought Pharmasset, one of the assets it acquired was Sovaldi, a hepatitis-C treatment which is now one of Gilead’s biggest sellers.
 
-这种模式最主要的部分是，最大型的药企们正逐渐在众多不同领域投入巨资进行前沿研发转变为购买已处于研发阶段的药物。某些例子里面，它们通过购买已建立的公司来这样做。例如，#作为收购Warner-Lambert的一部分，辉瑞得到了Lipitor, 它的重磅降低胆固醇的药物#。同样当吉利德（Gilead）购买Pharmasset时，其中之一的资产就是Sovaldi，一种治疗C型肝炎的药物，目前已经是吉利德最畅销的药物之一。
+这种模式最主要的部分是，最大型的药企们正逐渐从在众多不同领域投入巨资进行前沿研发转变为购买已处于研发阶段的药物。某些例子里面，它们通过购买已建立的公司来这样做。例如，作为收购Warner-Lambert的一部分，辉瑞得到了Lipitor, 它的重磅降低胆固醇的药物。同样当吉利德（Gilead）购买Pharmasset时，其中之一的资产就是Sovaldi，一种治疗C型肝炎的药物，目前已经是吉利德最畅销的药物之一。
 
 words:
 as part of its takeover
