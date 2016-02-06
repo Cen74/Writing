@@ -5,8 +5,6 @@ The high cost of R&D is used to explain why drugs giants merge, and why they mus
 
 高昂的研发费用通常用来解释制药巨头的合并，以及昂贵的药价，但真实情况并非如此。
 
-![](https://img.readitlater.com/i/cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20151128_WBP002_0/RS/w1408.jpg)
-
 AS THEY announced the proposed merger of Pfizer and Allergan to create the world’s biggest drugmaker, on November 23rd, the two firms’ bosses stressed the scale that is needed to keep inventing blockbuster treatments. As Ian Read, Pfizer’s boss, put it, the merger will create “a leading global pharmaceutical company with the strength to research, discover and deliver more medicines and therapies to more people around the world.”
 
 在11月23日辉瑞和艾尔建宣布将合并为世界上最大的制药企业的提案时，双方老板强调规模是持续研发重磅药物所需要的。辉瑞的老板 Ian Read提到合并将创造“一个全球领先的制药公司，为全球更多的人研究、发现及提供更多的药物和治疗”。
@@ -15,14 +13,13 @@ AS THEY announced the proposed merger of Pfizer and Allergan to create the world
 A more convincing explanation for the deal is that, by shifting Pfizer’s tax domicile from America to Ireland, where Allergan is domiciled, the combined group’s tax rate will fall from about 25% to 17-18%. But even leaving that aside, the common suggestion that size is needed to create a research-driven powerhouse does not stack up. The figure of $2.6 billion cited by PhRMA, the American drugmakers’ lobby, for the cost of developing a new drug, is questionable. And the industry is in any case moving away from a model in which giant firms throw huge sums at in-house research in a quest for ground-breaking new treatments.
 
 更令人信服对这次交易的解释是将辉瑞的注册地从美国转移到艾尔建的注册地爱尔兰，合并后集团的税率将由25%降到17%-18%。但即使暂且不提上述税收因素，规模是创建一个研发驱动的集团所必须的常规解释并站不住脚。（02-04）26亿美金，由美国制药商议会游说团体，Phma提出的研发一种新药的所需的费用值得怀疑。制药巨头为追求开创性的治疗方法而投入巨额资金的模式在行业中已逐渐远去。
+
 Start with the $2.6 billion figure. Two years ago, when the number being bandied about was just $1 billion, even the boss of GSK, one of Pfizer’s biggest rivals, described it as a myth. Médecins Sans Frontières, a charity, claims that new drugs can be developed for as little as $50m and no more than $190m, even taking into account the cost of those that fail during clinical trials. Some of the assumptions used to arrive at the $2.6 billion figure are easy to pick apart. One example is the padded estimate for the drug firms’ cost of capital. But at least as important is that the figure is based on data from between 1995 and 2007. It says more about the failures and inefficiencies of the drug giants’ in-house laboratories back then than it does about how much it should cost to bring a new treatment to market now. That matters because the industry has been moving towards a new model.
 
 以26亿美金这个数字开始。2年前流传的数字还是10亿美金，GSK（辉瑞的最大竞争对手）的老板当时称它神秘莫测。一个慈善组织，Médecins Sans Frontières，宣称即使考虑那些在临床上失败的药物的花费，新药研发的费用最少为5000万美金，最多为1.9忆美金。## (2-5) ##得出2.6亿美金数字的某些假设很容易被挑刺。例如对制药公司资金成本的高估。但至少同等重要的是这个数字是建立在1995年-2007年的数据上的，它更多反映制药巨头以前内部研发的经常失败和低效，而不是如今新药物带入市场所需的资金。这很重要，因为行业正在走向一个新的模式。
 
 words: 
 - padded
-
-[![](https://img.readitlater.com/i/cdn.static-economist.com/sites/default/files/imagecache/original-size/images/2015/07/articles/body/20150801_wop995_290/RS/w1408.png)](http://www.economist.com/blogs/graphicdetail/2015/07/daily-chart-other-placebo-effect)INTERACTIVE: Clinical trial simulator - Run your own trials and play the system in favour of your own drug
 
 The main element of this model is that, rather than spending heavily in many different areas of cutting-edge research, the largest firms are increasingly buying in drugs that are already in the course of development. In some cases they do so by buying other established firms. For example, Pfizer acquired Lipitor, its blockbuster cholesterol-lowering pill, as part of its takeover of Warner-Lambert. Likewise, when Gilead bought Pharmasset, one of the assets it acquired was Sovaldi, a hepatitis-C treatment which is now one of Gilead’s biggest sellers.
 
