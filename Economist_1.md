@@ -16,7 +16,7 @@ A more convincing explanation for the deal is that, by shifting Pfizer’s tax d
 
 Start with the $2.6 billion figure. Two years ago, when the number being bandied about was just $1 billion, even the boss of GSK, one of Pfizer’s biggest rivals, described it as a myth. Médecins Sans Frontières, a charity, claims that new drugs can be developed for as little as $50m and no more than $190m, even taking into account the cost of those that fail during clinical trials. Some of the assumptions used to arrive at the $2.6 billion figure are easy to pick apart. One example is the padded estimate for the drug firms’ cost of capital. But at least as important is that the figure is based on data from between 1995 and 2007. It says more about the failures and inefficiencies of the drug giants’ in-house laboratories back then than it does about how much it should cost to bring a new treatment to market now. That matters because the industry has been moving towards a new model.
 
-以26亿美金这个数字开始。2年前流传的数字还是10亿美金，GSK（辉瑞的最大竞争对手）的老板当时称它神秘莫测。一个慈善组织，Médecins Sans Frontières，宣称即使考虑那些在临床上失败的药物的花费，新药研发的费用最少为5000万美金，最多为1.9忆美金。## (2-5) ##得出2.6亿美金数字的某些假设很容易被挑刺。例如对制药公司资金成本的高估。但至少同等重要的是这个数字是建立在1995年-2007年的数据上的，它更多反映制药巨头以前内部研发的经常失败和低效，而不是如今将新药物带入市场所需的成本。这很重要，因为行业正在进入一个新的模式。
+以26亿美金这个数字开始。2年前流传的数字还是10亿美金，GSK（辉瑞的最大竞争对手）的老板当时称它神秘莫测。一个慈善组织，Médecins Sans Frontières，宣称即使考虑那些在临床上失败的药物的花费，新药研发的费用最少为5000万美金，最多为1.9忆美金。得出2.6亿美金数字的某些假设很容易被挑刺。例如对制药公司资金成本的高估。但至少同等重要的是这个数字是建立在1995年-2007年的数据上的，它更多反映制药巨头以前内部研发的经常失败和低效，而不是如今将新药物带入市场所需的成本。这很重要，因为行业正在进入一个新的模式。
 
 words: 
 - padded
