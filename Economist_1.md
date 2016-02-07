@@ -32,8 +32,10 @@ as part of its takeover
 ---
 Increasingly, the drugs giants are buying smaller, younger biotechnology firms which focus on a single-treatment approach—such as last year’s purchase by Merck, an American firm, of Idenix, which is pursuing a different route to inhibiting the hepatitis C virus from Sovaldi’s. Whether the target firm is big or small, buying in promising potential drugs is a good strategy. A study by Bain, a consulting firm, found that in the past 20 years those drug companies that consistently did well in various therapeutic areas were earning more than 70% of their sales from products developed elsewhere.
 
-制药巨头收购专注于单一药物的更小、更年轻的生物公司的情况正在增多，例如去年默克收购了一家叫Idenix的美国公司，它专注于研发不同于Sovaldis的另一种抑制C型肝炎病毒的方式。不管目标公司大小，购买有巨大潜力的药物是一个好的策略。根据Bain咨询公司的研究，过去20年那些持续在多个治疗领域表现出色的的制药公司有70%的收入来自于非内部研发的药物。
+制药巨头生物公司正逐渐购买更小、成立时间更短的生物技术公司，它们通常专注于一种单一治疗方式，例如去年默克收购了一家叫Idenix的美国公司，它专注于研发不同于Sovaldis的另一种抑制C型肝炎病毒的方式。不管目标公司大小，购买有巨大潜力的药物是一个好的策略。根据Bain咨询公司的研究，过去20年那些持续在多个治疗领域表现出色的的制药公司有70%的收入来自于非内部研发的药物。
 
+2016-02-07
+---
 As the biggest firms have increasingly outsourced the early stages of drug discovery, they have cut back their in-house spending in those areas of research in which they are weak. But they have continued to spend heavily on what are more like beauty products than life-saving cures—think of Allergan’s Botox anti-wrinkle jabs, or Latisse, its lotion for thickening eyelashes. They have also continued to pump money into making incremental changes to their existing drugs, so as to claim some small advantage—and big price differential—over rival treatments.
 
 Overall, the new approach seems to be helping to improve the industry’s efficiency. Tim Gamble, a consultant at Datamonitor Healthcare, says drugs in development are not failing at the rate they used to. Last year a record number of new medicines gained approval. Rising efficiency may also be the result of the way the study of the human genome is leading to a deeper understanding of diseases. James Bianco of CTI Biopharma, a small drugmaker, argues that the genomics revolution is making it faster and less risky to develop a new treatment approach, thus cutting the cost of basic research, whether at startups or global pharma giants.
