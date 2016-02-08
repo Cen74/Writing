@@ -38,6 +38,8 @@ Increasingly, the drugs giants are buying smaller, younger biotechnology firms w
 ---
 As the biggest firms have increasingly outsourced the early stages of drug discovery, they have cut back their in-house spending in those areas of research in which they are weak. But they have continued to spend heavily on what are more like beauty products than life-saving cures—think of Allergan’s Botox anti-wrinkle jabs, or Latisse, its lotion for thickening eyelashes. They have also continued to pump money into making incremental changes to their existing drugs, so as to claim some small advantage—and big price differential—over rival treatments.
 
+随着最大的制药公司们逐渐外包早期药物的研发，他们消减了自己薄弱领域的内部研发投入。但是它们持续在美容类产品投入巨资研发而不是关系生命的药物，例如Allergan的肉毒素抗皱纹针，或者叫Latisse的增厚睫毛液。这些巨头们也会投入资金对现有的药物进行改善，这样可以因为某些小的优势获得更大的价格。
+
 Overall, the new approach seems to be helping to improve the industry’s efficiency. Tim Gamble, a consultant at Datamonitor Healthcare, says drugs in development are not failing at the rate they used to. Last year a record number of new medicines gained approval. Rising efficiency may also be the result of the way the study of the human genome is leading to a deeper understanding of diseases. James Bianco of CTI Biopharma, a small drugmaker, argues that the genomics revolution is making it faster and less risky to develop a new treatment approach, thus cutting the cost of basic research, whether at startups or global pharma giants.
 But what about the price?
 
