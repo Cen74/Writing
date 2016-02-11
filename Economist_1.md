@@ -46,7 +46,10 @@ As the biggest firms have increasingly outsourced the early stages of drug disco
 Overall, the new approach seems to be helping to improve the industry’s efficiency. Tim Gamble, a consultant at Datamonitor Healthcare, says drugs in development are not failing at the rate they used to. Last year a record number of new medicines gained approval. Rising efficiency may also be the result of the way the study of the human genome is leading to a deeper understanding of diseases. James Bianco of CTI Biopharma, a small drugmaker, argues that the genomics revolution is making it faster and less risky to develop a new treatment approach, thus cutting the cost of basic research, whether at startups or global pharma giants.
 But what about the price?
 
-总得来说，新的方式看起来有助于改善整个行业的效率。Datamonitor Healthcare 公司的顾问Tim Gamble说在研药物的失败率没有以前高了。去年获批新药的数量创了记录。人类基因的研究导致对疾病更深的理解可能也是研发效率提升的原因之一。来自CTI Biopharma，一个小制药公司，的James Bianco 表示无论对制药巨头还是初创企业来说这场基因革命通过减少在基础研究上的花费使得研发新药变得更快和更安全。但是药物的价格会怎么变化？
+总得来说，新的方式看起来有助于改善整个行业的效率。Datamonitor Healthcare 公司的顾问Tim Gamble说在研药物的失败率没有以前高了。去年获批新药的数量创了记录。研发效率的提升可能也是由于对人类基因的研究导致对疾病更深入的理解所造成的。来自CTI Biopharma，一个小制药公司，的James Bianco 表示无论这场基因革命使得研发新药变得更快和更低失败率，因此无论是初创企业还是行业巨头都降低了基础研究的支出。但是药物的价格会有什么变化？
+
+2016-02-11
+---
 
 Promising as all this sounds, there is little sign yet of any improvement in the efficiency of drug research translating into cheaper medicines. The shareholders of a drugmaker expect it to charge as much as it can get away with; and since many drugs, for as long as their patent is in force, have no close competitors, the health systems and insurers they sell to may have little choice but to pay whatever they are asked for. Sometimes a drug’s new owner makes more from it than the old owner, simply by being more demanding on price. Pharmasset had been thinking of selling Sovaldi at between $36,000 and $72,000 for a course of treatment. But Gilead, having bid highly to win control of Pharmasset, put the drug on the market for $84,000.
 
