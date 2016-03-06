@@ -54,7 +54,7 @@ But what about the price?
 
 Promising as all this sounds, there is little sign yet of any improvement in the efficiency of drug research translating into cheaper medicines. The shareholders of a drugmaker expect it to charge as much as it can get away with; and since many drugs, for as long as their patent is in force, have no close competitors, the health systems and insurers they sell to may have little choice but to pay whatever they are asked for. Sometimes a drug’s new owner makes more from it than the old owner, simply by being more demanding on price. Pharmasset had been thinking of selling Sovaldi at between $36,000 and $72,000 for a course of treatment. But Gilead, having bid highly to win control of Pharmasset, put the drug on the market for $84,000.
 
-听起来~~很诱人~~前景光明，但几乎没有任何迹象表明药物研发效率的提高已转化为~~药物价格的降低~~药价降低。制药公司的股东们期望制药公司尽可能多的收费，由于许多在专利保护期内的药物没有类似的竞争对手，健康系统和保险公司没有其它选择只有接受药厂的~~所有要求~~漫天要价。有些时候，一种药物的新所有者挣得比卖家多~仅是因为在价格上要求更多~仅靠提价。Pharmasset 曾经考虑在一个疗程里以$36,000 到$72,000的价格销售Sovaldi. ~~但是以高价获得Pharmasset控制权的 Gilead公司~~但在高价收购Pharmasset后，Gilead将药物的上市价格定为 $84,000. 
+听起来~~很诱人~~前景光明，但几乎没有任何迹象表明药物研发效率的提高已转化为~~药物价格的降低~~药价降低。制药公司的股东们期望制药公司尽可能多的收费，由于许多在专利保护期内的药物没有类似的竞争对手，健康系统和保险公司没有其它选择只有接受药厂的~~所有要求~~漫天要价。有些时候，一种药物的新所有者挣得比卖家多~~仅是因为在价格上要求更多~~仅靠提价。Pharmasset 曾经考虑在一个疗程里以$36,000 到$72,000的价格销售Sovaldi. ~~但是以高价获得Pharmasset控制权的 Gilead公司~~但在高价收购Pharmasset后，Gilead将药物的上市价格定为 $84,000. 
 
 ---
 
