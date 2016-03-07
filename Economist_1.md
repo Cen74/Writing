@@ -64,7 +64,7 @@ Promising as all this sounds, there is little sign yet of any improvement in the
 
 Some drug firms are also buying makers of long-established, out-of-patent treatments, realising that even these could bear higher prices if no other firm is supplying a “generic” copy of them. Turing Pharmaceuticals and Valeant have became notorious for buying the rights to some such medicines, and jacking up their prices.
 
-一些制药公司也购买上市较早、专利到期的药物，意识到如果没有其它公司供应这类药物的仿制药，这些药物能以更高的价格出售。 因为购买的这类药物并提高它们的售价，Turing Pharmaceuticals 和 valent 已变得臭名昭著。
+一些制药公司也购买上市较早、专利到期的药物，意识到如果没有其它公司提供其的仿制药，这些药物能提价出售。 因为购买的这类药物并提高它们的售价，Turing Pharmaceuticals 和 valent 已变得臭名昭著。
 ---
 
 
