@@ -60,7 +60,14 @@ Promising as all this sounds, there is little sign yet of any improvement in the
 
 ![](https://img.readitlater.com/i/cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20151128_WBC617/RS/w1408.png)
 
+2016-3-7
+
 Some drug firms are also buying makers of long-established, out-of-patent treatments, realising that even these could bear higher prices if no other firm is supplying a “generic” copy of them. Turing Pharmaceuticals and Valeant have became notorious for buying the rights to some such medicines, and jacking up their prices.
+
+一些制药公司也购买上市较早、专利到期的药物，意识到如果没有其它公司供应这类药物的仿制药，这些药物能以更高的价格出售。 因为购买的这类药物并提高它们的售价，Turing Pharmaceuticals 和 valent 已变得臭名昭著。
+---
+
+
 
 Ensuring that the benefits of greater research efficiency are fully passed on to governments and health insurers would require drastic changes, such as, say, abolishing the patent system and finding some other way to incentivise basic research. Among the more imaginative ideas in this vein, the open-source pharmaceuticals movement is experimenting with using prizes as an incentive for teams of volunteer scientists to work on new treatment approaches. Once invented and tested, the drugs would be free for any firm to make.
 
