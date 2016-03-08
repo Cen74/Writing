@@ -66,9 +66,10 @@ Some drug firms are also buying makers of long-established, out-of-patent treatm
 
 一些制药公司也购买上市较早、专利到期的药物，意识到如果没有其它公司提供其的仿制药，这些药物能提价出售。 因为购买的这类药物并提高它们的售价，Turing Pharmaceuticals 和 valent 已变得臭名昭著。
 ---
-
-
-
+# 2016-3-8
 Ensuring that the benefits of greater research efficiency are fully passed on to governments and health insurers would require drastic changes, such as, say, abolishing the patent system and finding some other way to incentivise basic research. Among the more imaginative ideas in this vein, the open-source pharmaceuticals movement is experimenting with using prizes as an incentive for teams of volunteer scientists to work on new treatment approaches. Once invented and tested, the drugs would be free for any firm to make.
+
+为确保政府和健康保险公司获得研发效率提升带来的全部利益需要做出巨大的改变，例如废止专利系统，找到其它的方式激励基础研究。在这种思路下有许多富有想象力的想法，比如开源医药活动正在试验通过奖励激励研发新药物的资源科学家。一旦药物研发并测试完成，药物可被任何公司免费使用。
+---
 
 Realistically, though, the chances that new approaches to research will dramatically cut the cost of medicines look slender. That leaves more administrative approaches. It could be made easier to import cheap copies of unpatented drugs made in other countries. Buyers of medicines could share more information about the different prices they are being charged for the same pills. They might be firmer in refusing to pay over the odds for new treatments that offer marginal gains. Medicare, America’s health system for the elderly, could be allowed to try to negotiate with the drugmakers, something it is banned from doing now. If the producers are becoming more efficient, the buyers should respond.
